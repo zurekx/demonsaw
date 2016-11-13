@@ -1,0 +1,7 @@
+[demonsaw]
+	version = 1
+[[router]]
+	port = 443
+	name = "[router]"
+	color = 4294901760
+	address = "0.0.0.0"
